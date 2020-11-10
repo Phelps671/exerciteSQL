@@ -1,5 +1,5 @@
 # Exercite SQL
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arthurfporto/sqltest/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arthurfporto/exerciteSQL/HEAD)
 <hr>
 O objetivo desse repositório é propor atividades para que você possa exercitar os seus conhecimentos em SQL. 
 
